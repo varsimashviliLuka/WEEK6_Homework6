@@ -1,0 +1,14 @@
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\bin\Debug\net10.0\WEEK6_Homework6.exe
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\bin\Debug\net10.0\WEEK6_Homework6.deps.json
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\bin\Debug\net10.0\WEEK6_Homework6.runtimeconfig.json
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\bin\Debug\net10.0\WEEK6_Homework6.dll
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\bin\Debug\net10.0\WEEK6_Homework6.pdb
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\WEEK6_Homework6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\WEEK6_Homework6.AssemblyInfoInputs.cache
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\WEEK6_Homework6.AssemblyInfo.cs
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\WEEK6_Homework6.csproj.CoreCompileInputs.cache
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\WEEK6_Homework6.dll
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\refint\WEEK6_Homework6.dll
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\WEEK6_Homework6.pdb
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\WEEK6_Homework6.genruntimeconfig.cache
+C:\Users\Varsima\RiderProjects\WEEK6_Homework6\WEEK6_Homework6\obj\Debug\net10.0\ref\WEEK6_Homework6.dll
